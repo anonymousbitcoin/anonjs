@@ -3,7 +3,7 @@ Dead simple and easy to use JavaScript based Zelcash library. Inspired by [pybit
 
 # Getting started (Dev)
 ```bash
-git clone https://github.com/TheTrunk/anonjs.git
+git clone https://github.com/ukminer17/anonjs.git
 cd anonjs
 yarn install
 yarn build
